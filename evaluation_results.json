@@ -1,0 +1,179 @@
+{
+  "summary": {
+    "avg_bleu": 0.0710053605731781,
+    "avg_similarity": 0.5618048764410473,
+    "aviation_term_coverage": 42.857142857142854,
+    "avg_term_percentage": 11.005291005291005,
+    "num_samples": 21
+  },
+  "detailed_results": [
+    {
+      "context": "Aerodynamic stall occurs when the angle of attack exceeds the critical angle and smooth airflow over...",
+      "reference": "Can a stall occur at high airspeed?",
+      "generated": "What causes aerodynamic stalls?",
+      "bleu": 0.029486824119076216,
+      "similarity": 0.5623376965522766,
+      "has_aviation_terms": false
+    },
+    {
+      "context": "The vertical speed indicator (VSI) shows the rate of climb or descent in feet per minute. It uses th...",
+      "reference": "What is the main limitation of traditional VSI instruments?",
+      "generated": "What is vertical speed indicator?",
+      "bleu": 0.04905406857740215,
+      "similarity": 0.1826629340648651,
+      "has_aviation_terms": true
+    },
+    {
+      "context": "Hypoxia is a state of oxygen deficiency in the body sufficient to impair functions of the brain and ...",
+      "reference": "When is supplemental oxygen required?",
+      "generated": "What causes hypoxia?",
+      "bleu": 0.04873039689743777,
+      "similarity": 0.39972564578056335,
+      "has_aviation_terms": false
+    },
+    {
+      "context": "Navigation in aviation involves determining the aircraft's position and maintaining the desired flig...",
+      "reference": "What navigation systems do modern aircraft use?",
+      "generated": "What are the main navigation methods used in aviation?",
+      "bleu": 0.02777619034011792,
+      "similarity": 0.7705134153366089,
+      "has_aviation_terms": true
+    },
+    {
+      "context": "Automatic Terminal Information Service (ATIS) is a continuous broadcast of recorded aeronautical inf...",
+      "reference": "How are ATIS broadcasts identified?",
+      "generated": "What is ATIS?",
+      "bleu": 0.05795053470733952,
+      "similarity": 0.608195424079895,
+      "has_aviation_terms": false
+    },
+    {
+      "context": "Controlled airspace includes Class A, B, C, D, and E airspace, each with specific requirements for e...",
+      "reference": "What are the classes of controlled airspace?",
+      "generated": "What is Class B airspace?",
+      "bleu": 0.06846046760764757,
+      "similarity": 0.6916595697402954,
+      "has_aviation_terms": true
+    },
+    {
+      "context": "Aerodynamic stall occurs when the angle of attack exceeds the critical angle and smooth airflow over...",
+      "reference": "How do pilots recover from a stall?",
+      "generated": "What is an aerodynamic stall?",
+      "bleu": 0.061861015698337206,
+      "similarity": 0.646685004234314,
+      "has_aviation_terms": true
+    },
+    {
+      "context": "Squawk codes are four-digit transponder codes assigned by air traffic control. Standard codes includ...",
+      "reference": "What are the emergency squawk codes?",
+      "generated": "What is squawk codes?",
+      "bleu": 0.19153996003797966,
+      "similarity": 0.7609032392501831,
+      "has_aviation_terms": false
+    },
+    {
+      "context": "A NOTAM (Notice to Airmen) is a notice containing information concerning the establishment, conditio...",
+      "reference": "When must pilots check NOTAMs?",
+      "generated": "What is a NOTAM?",
+      "bleu": 0.0439891724758422,
+      "similarity": 0.48839864134788513,
+      "has_aviation_terms": false
+    },
+    {
+      "context": "The transponder is an electronic device that responds to radar interrogation from air traffic contro...",
+      "reference": "What does Mode C transmit?",
+      "generated": "What is a transponder?",
+      "bleu": 0.05231223689135342,
+      "similarity": 0.27291616797447205,
+      "has_aviation_terms": true
+    },
+    {
+      "context": "Aerodynamic stall occurs when the angle of attack exceeds the critical angle and smooth airflow over...",
+      "reference": "What are the warning signs of an impending stall?",
+      "generated": "What is aerodynamic stall?",
+      "bleu": 0.04625839074220484,
+      "similarity": 0.5443795919418335,
+      "has_aviation_terms": true
+    },
+    {
+      "context": "The magnetic compass is a primary navigation instrument that indicates magnetic heading. It contains...",
+      "reference": "How does a magnetic compass work?",
+      "generated": "What is magnetic compass?",
+      "bleu": 0.08428828344718171,
+      "similarity": 0.8935259580612183,
+      "has_aviation_terms": true
+    },
+    {
+      "context": "An Emergency Locator Transmitter (ELT) is a device that transmits a distress signal on 121.5 MHz and...",
+      "reference": "How often must ELTs be inspected?",
+      "generated": "What is an ELT?",
+      "bleu": 0.036015288308423515,
+      "similarity": 0.5112003684043884,
+      "has_aviation_terms": false
+    },
+    {
+      "context": "Crosswind landing techniques are essential for safe operations when wind is not aligned with the run...",
+      "reference": "What are crosswind landing techniques?",
+      "generated": "What is the crab method?",
+      "bleu": 0.048549177170732344,
+      "similarity": 0.3211483657360077,
+      "has_aviation_terms": false
+    },
+    {
+      "context": "Airworthiness Directives (ADs) are legally enforceable rules issued by aviation authorities to corre...",
+      "reference": "Is compliance with ADs mandatory?",
+      "generated": "What is AD compliance?",
+      "bleu": 0.05789300674674099,
+      "similarity": 0.7483940124511719,
+      "has_aviation_terms": false
+    },
+    {
+      "context": "The pitot-static system provides pressure information to flight instruments including the airspeed i...",
+      "reference": "What is the pitot-static system?",
+      "generated": "What is the static port?",
+      "bleu": 0.21711852081087685,
+      "similarity": 0.480366975069046,
+      "has_aviation_terms": false
+    },
+    {
+      "context": "The attitude indicator, also called artificial horizon, displays the aircraft's orientation relative...",
+      "reference": "When is the attitude indicator most critical?",
+      "generated": "What is an attitude indicator?",
+      "bleu": 0.07356556000975763,
+      "similarity": 0.7869274020195007,
+      "has_aviation_terms": false
+    },
+    {
+      "context": "Carburetor icing occurs when moisture in the air freezes in the carburetor venturi, restricting airf...",
+      "reference": "What are the signs of carburetor icing?",
+      "generated": "What is carburetor icing?",
+      "bleu": 0.15681965572642162,
+      "similarity": 0.790193498134613,
+      "has_aviation_terms": true
+    },
+    {
+      "context": "The vertical speed indicator (VSI) shows the rate of climb or descent in feet per minute. It uses th...",
+      "reference": "How does a VSI work?",
+      "generated": "What is vertical speed indicator?",
+      "bleu": 0.040824829046386304,
+      "similarity": 0.27074843645095825,
+      "has_aviation_terms": true
+    },
+    {
+      "context": "Hydroplaning occurs when a layer of water builds up between the aircraft tires and the runway surfac...",
+      "reference": "What are the three types of hydroplaning?",
+      "generated": "What is hydroplaning?",
+      "bleu": 0.069172428217611,
+      "similarity": 0.7913389205932617,
+      "has_aviation_terms": false
+    },
+    {
+      "context": "The preflight inspection is a systematic visual and physical check of the aircraft before flight. It...",
+      "reference": "What must pilots do if discrepancies are found?",
+      "generated": "What is a preflight inspection?",
+      "bleu": 0.02944656445786981,
+      "similarity": 0.27568113803863525,
+      "has_aviation_terms": false
+    }
+  ]
+}

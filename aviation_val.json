@@ -1,0 +1,107 @@
+[
+  {
+    "input_text": "generate question: Aerodynamic stall occurs when the angle of attack exceeds the critical angle and smooth airflow over the wing is disrupted. Warning signs include buffeting, reduced control effectiveness, and activation of the stall warning system. Recovery requires reducing the angle of attack by lowering the nose and increasing airspeed. Stalls can occur at any airspeed if the critical angle of attack is exceeded.",
+    "target_text": "Can a stall occur at high airspeed?",
+    "context": "Aerodynamic stall occurs when the angle of attack exceeds the critical angle and smooth airflow over the wing is disrupted. Warning signs include buffeting, reduced control effectiveness, and activation of the stall warning system. Recovery requires reducing the angle of attack by lowering the nose and increasing airspeed. Stalls can occur at any airspeed if the critical angle of attack is exceeded."
+  },
+  {
+    "input_text": "generate question: The vertical speed indicator (VSI) shows the rate of climb or descent in feet per minute. It uses the rate of change of atmospheric pressure to determine vertical velocity. There is typically a slight lag in the instrument's response, which pilots must account for. Modern aircraft often have instantaneous vertical speed indicators (IVSI) that reduce this lag.",
+    "target_text": "What is the main limitation of traditional VSI instruments?",
+    "context": "The vertical speed indicator (VSI) shows the rate of climb or descent in feet per minute. It uses the rate of change of atmospheric pressure to determine vertical velocity. There is typically a slight lag in the instrument's response, which pilots must account for. Modern aircraft often have instantaneous vertical speed indicators (IVSI) that reduce this lag."
+  },
+  {
+    "input_text": "generate question: Hypoxia is a state of oxygen deficiency in the body sufficient to impair functions of the brain and other organs. Types include hypoxic hypoxia (insufficient oxygen in air), hypemic hypoxia (blood's inability to carry oxygen), stagnant hypoxia (inadequate blood circulation), and histotoxic hypoxia (cells' inability to use oxygen). Symptoms include euphoria, impaired judgment, decreased reaction time, and visual impairment. At cabin altitudes above 12,500 feet MSL, supplemental oxygen is required after 30 minutes.",
+    "target_text": "When is supplemental oxygen required?",
+    "context": "Hypoxia is a state of oxygen deficiency in the body sufficient to impair functions of the brain and other organs. Types include hypoxic hypoxia (insufficient oxygen in air), hypemic hypoxia (blood's inability to carry oxygen), stagnant hypoxia (inadequate blood circulation), and histotoxic hypoxia (cells' inability to use oxygen). Symptoms include euphoria, impaired judgment, decreased reaction time, and visual impairment. At cabin altitudes above 12,500 feet MSL, supplemental oxygen is required after 30 minutes."
+  },
+  {
+    "input_text": "generate question: Navigation in aviation involves determining the aircraft's position and maintaining the desired flight path. There are several methods including pilotage (visual reference to landmarks), dead reckoning (calculations based on heading, speed, and time), radio navigation (using VOR, NDB), and satellite navigation (GPS). Modern aircraft typically use a combination of these methods.",
+    "target_text": "What navigation systems do modern aircraft use?",
+    "context": "Navigation in aviation involves determining the aircraft's position and maintaining the desired flight path. There are several methods including pilotage (visual reference to landmarks), dead reckoning (calculations based on heading, speed, and time), radio navigation (using VOR, NDB), and satellite navigation (GPS). Modern aircraft typically use a combination of these methods."
+  },
+  {
+    "input_text": "generate question: Automatic Terminal Information Service (ATIS) is a continuous broadcast of recorded aeronautical information at towered airports. ATIS includes weather information, active runways, approach procedures in use, and other pertinent data. Each ATIS broadcast is identified by a phonetic letter (Alpha, Bravo, Charlie, etc.) that changes when information is updated. Pilots must acknowledge receipt of ATIS information when contacting approach control or tower.",
+    "target_text": "How are ATIS broadcasts identified?",
+    "context": "Automatic Terminal Information Service (ATIS) is a continuous broadcast of recorded aeronautical information at towered airports. ATIS includes weather information, active runways, approach procedures in use, and other pertinent data. Each ATIS broadcast is identified by a phonetic letter (Alpha, Bravo, Charlie, etc.) that changes when information is updated. Pilots must acknowledge receipt of ATIS information when contacting approach control or tower."
+  },
+  {
+    "input_text": "generate question: Controlled airspace includes Class A, B, C, D, and E airspace, each with specific requirements for entry and operations. Class A extends from 18,000 feet MSL to FL600 and requires an instrument rating and clearance. Class B surrounds major airports with specific VFR requirements. Class C and D have progressively less restrictive requirements. Class E is controlled airspace not classified as A, B, C, or D.",
+    "target_text": "What are the classes of controlled airspace?",
+    "context": "Controlled airspace includes Class A, B, C, D, and E airspace, each with specific requirements for entry and operations. Class A extends from 18,000 feet MSL to FL600 and requires an instrument rating and clearance. Class B surrounds major airports with specific VFR requirements. Class C and D have progressively less restrictive requirements. Class E is controlled airspace not classified as A, B, C, or D."
+  },
+  {
+    "input_text": "generate question: Aerodynamic stall occurs when the angle of attack exceeds the critical angle and smooth airflow over the wing is disrupted. Warning signs include buffeting, reduced control effectiveness, and activation of the stall warning system. Recovery requires reducing the angle of attack by lowering the nose and increasing airspeed. Stalls can occur at any airspeed if the critical angle of attack is exceeded.",
+    "target_text": "How do pilots recover from a stall?",
+    "context": "Aerodynamic stall occurs when the angle of attack exceeds the critical angle and smooth airflow over the wing is disrupted. Warning signs include buffeting, reduced control effectiveness, and activation of the stall warning system. Recovery requires reducing the angle of attack by lowering the nose and increasing airspeed. Stalls can occur at any airspeed if the critical angle of attack is exceeded."
+  },
+  {
+    "input_text": "generate question: Squawk codes are four-digit transponder codes assigned by air traffic control. Standard codes include 1200 (VFR flight), 7500 (hijacking), 7600 (communication failure), and 7700 (emergency). Pilots must enter the assigned code and verify MODE C altitude reporting is enabled. When changing codes, pilots should avoid passing through 7500, 7600, or 7700 to prevent inadvertent emergency declaration.",
+    "target_text": "What are the emergency squawk codes?",
+    "context": "Squawk codes are four-digit transponder codes assigned by air traffic control. Standard codes include 1200 (VFR flight), 7500 (hijacking), 7600 (communication failure), and 7700 (emergency). Pilots must enter the assigned code and verify MODE C altitude reporting is enabled. When changing codes, pilots should avoid passing through 7500, 7600, or 7700 to prevent inadvertent emergency declaration."
+  },
+  {
+    "input_text": "generate question: A NOTAM (Notice to Airmen) is a notice containing information concerning the establishment, condition, or change in any aeronautical facility, service, procedure, or hazard. NOTAMs are issued for runway closures, navaid outages, airspace restrictions, and other time-critical information. Types include NOTAM-D (distant), FDC NOTAMs (regulatory), pointer NOTAMs, and military NOTAMs. Pilots are required to check NOTAMs as part of preflight planning.",
+    "target_text": "When must pilots check NOTAMs?",
+    "context": "A NOTAM (Notice to Airmen) is a notice containing information concerning the establishment, condition, or change in any aeronautical facility, service, procedure, or hazard. NOTAMs are issued for runway closures, navaid outages, airspace restrictions, and other time-critical information. Types include NOTAM-D (distant), FDC NOTAMs (regulatory), pointer NOTAMs, and military NOTAMs. Pilots are required to check NOTAMs as part of preflight planning."
+  },
+  {
+    "input_text": "generate question: The transponder is an electronic device that responds to radar interrogation from air traffic control. Mode A transmits a four-digit code assigned by ATC. Mode C adds altitude information from the aircraft's encoding altimeter. Mode S provides additional data link capability. Pilots must set the assigned squawk code and ensure the transponder is on the appropriate mode for their flight.",
+    "target_text": "What does Mode C transmit?",
+    "context": "The transponder is an electronic device that responds to radar interrogation from air traffic control. Mode A transmits a four-digit code assigned by ATC. Mode C adds altitude information from the aircraft's encoding altimeter. Mode S provides additional data link capability. Pilots must set the assigned squawk code and ensure the transponder is on the appropriate mode for their flight."
+  },
+  {
+    "input_text": "generate question: Aerodynamic stall occurs when the angle of attack exceeds the critical angle and smooth airflow over the wing is disrupted. Warning signs include buffeting, reduced control effectiveness, and activation of the stall warning system. Recovery requires reducing the angle of attack by lowering the nose and increasing airspeed. Stalls can occur at any airspeed if the critical angle of attack is exceeded.",
+    "target_text": "What are the warning signs of an impending stall?",
+    "context": "Aerodynamic stall occurs when the angle of attack exceeds the critical angle and smooth airflow over the wing is disrupted. Warning signs include buffeting, reduced control effectiveness, and activation of the stall warning system. Recovery requires reducing the angle of attack by lowering the nose and increasing airspeed. Stalls can occur at any airspeed if the critical angle of attack is exceeded."
+  },
+  {
+    "input_text": "generate question: The magnetic compass is a primary navigation instrument that indicates magnetic heading. It contains a magnetized needle that aligns with Earth's magnetic field. Compass errors include variation (difference between magnetic and true north), deviation (errors caused by aircraft magnetic fields), and turning errors during acceleration and deceleration.",
+    "target_text": "How does a magnetic compass work?",
+    "context": "The magnetic compass is a primary navigation instrument that indicates magnetic heading. It contains a magnetized needle that aligns with Earth's magnetic field. Compass errors include variation (difference between magnetic and true north), deviation (errors caused by aircraft magnetic fields), and turning errors during acceleration and deceleration."
+  },
+  {
+    "input_text": "generate question: An Emergency Locator Transmitter (ELT) is a device that transmits a distress signal on 121.5 MHz and 406 MHz frequencies when activated by impact or manually. Modern 406 MHz ELTs transmit identification and position data to satellites. ELTs must be inspected within 12 calendar months and batteries replaced when 50% of useful life has expired. Pilots should ensure the ELT switch is in the armed position before flight.",
+    "target_text": "How often must ELTs be inspected?",
+    "context": "An Emergency Locator Transmitter (ELT) is a device that transmits a distress signal on 121.5 MHz and 406 MHz frequencies when activated by impact or manually. Modern 406 MHz ELTs transmit identification and position data to satellites. ELTs must be inspected within 12 calendar months and batteries replaced when 50% of useful life has expired. Pilots should ensure the ELT switch is in the armed position before flight."
+  },
+  {
+    "input_text": "generate question: Crosswind landing techniques are essential for safe operations when wind is not aligned with the runway. The two primary methods are the crab method and the wing-low (sideslip) method. The crab method involves pointing the nose into the wind to maintain runway alignment. The wing-low method uses aileron to lower the upwind wing while applying opposite rudder to maintain runway centerline. Most pilots use a combination of both techniques.",
+    "target_text": "What are crosswind landing techniques?",
+    "context": "Crosswind landing techniques are essential for safe operations when wind is not aligned with the runway. The two primary methods are the crab method and the wing-low (sideslip) method. The crab method involves pointing the nose into the wind to maintain runway alignment. The wing-low method uses aileron to lower the upwind wing while applying opposite rudder to maintain runway centerline. Most pilots use a combination of both techniques."
+  },
+  {
+    "input_text": "generate question: Airworthiness Directives (ADs) are legally enforceable rules issued by aviation authorities to correct unsafe conditions in aircraft, engines, propellers, or appliances. Compliance with ADs is mandatory and must be recorded in the aircraft maintenance records. ADs may require immediate action, compliance within a specified time, or compliance at the next scheduled maintenance. Pilots must ensure all applicable ADs have been complied with before flight.",
+    "target_text": "Is compliance with ADs mandatory?",
+    "context": "Airworthiness Directives (ADs) are legally enforceable rules issued by aviation authorities to correct unsafe conditions in aircraft, engines, propellers, or appliances. Compliance with ADs is mandatory and must be recorded in the aircraft maintenance records. ADs may require immediate action, compliance within a specified time, or compliance at the next scheduled maintenance. Pilots must ensure all applicable ADs have been complied with before flight."
+  },
+  {
+    "input_text": "generate question: The pitot-static system provides pressure information to flight instruments including the airspeed indicator, altimeter, and vertical speed indicator. The pitot tube measures ram air pressure (total pressure) while the static port measures ambient atmospheric pressure (static pressure). Blockage of the pitot tube affects only the airspeed indicator, while static port blockage affects all three instruments. Alternate static sources are provided in case of primary static port failure.",
+    "target_text": "What is the pitot-static system?",
+    "context": "The pitot-static system provides pressure information to flight instruments including the airspeed indicator, altimeter, and vertical speed indicator. The pitot tube measures ram air pressure (total pressure) while the static port measures ambient atmospheric pressure (static pressure). Blockage of the pitot tube affects only the airspeed indicator, while static port blockage affects all three instruments. Alternate static sources are provided in case of primary static port failure."
+  },
+  {
+    "input_text": "generate question: The attitude indicator, also called artificial horizon, displays the aircraft's orientation relative to the earth's horizon. It shows pitch (nose up or down) and bank (roll left or right). This instrument is critical for instrument flight when visual references are not available. It operates using a gyroscope that maintains a fixed reference in space.",
+    "target_text": "When is the attitude indicator most critical?",
+    "context": "The attitude indicator, also called artificial horizon, displays the aircraft's orientation relative to the earth's horizon. It shows pitch (nose up or down) and bank (roll left or right). This instrument is critical for instrument flight when visual references are not available. It operates using a gyroscope that maintains a fixed reference in space."
+  },
+  {
+    "input_text": "generate question: Carburetor icing occurs when moisture in the air freezes in the carburetor venturi, restricting airflow and reducing engine power. It can occur even in above-freezing temperatures when humidity is high. Signs include loss of RPM and rough engine operation. Carburetor heat is used to prevent or remove ice by directing warm air through the carburetor.",
+    "target_text": "What are the signs of carburetor icing?",
+    "context": "Carburetor icing occurs when moisture in the air freezes in the carburetor venturi, restricting airflow and reducing engine power. It can occur even in above-freezing temperatures when humidity is high. Signs include loss of RPM and rough engine operation. Carburetor heat is used to prevent or remove ice by directing warm air through the carburetor."
+  },
+  {
+    "input_text": "generate question: The vertical speed indicator (VSI) shows the rate of climb or descent in feet per minute. It uses the rate of change of atmospheric pressure to determine vertical velocity. There is typically a slight lag in the instrument's response, which pilots must account for. Modern aircraft often have instantaneous vertical speed indicators (IVSI) that reduce this lag.",
+    "target_text": "How does a VSI work?",
+    "context": "The vertical speed indicator (VSI) shows the rate of climb or descent in feet per minute. It uses the rate of change of atmospheric pressure to determine vertical velocity. There is typically a slight lag in the instrument's response, which pilots must account for. Modern aircraft often have instantaneous vertical speed indicators (IVSI) that reduce this lag."
+  },
+  {
+    "input_text": "generate question: Hydroplaning occurs when a layer of water builds up between the aircraft tires and the runway surface, causing loss of tire contact and reduced braking effectiveness. There are three types: dynamic hydroplaning (high speed on wet surfaces), viscous hydroplaning (thin film on smooth surfaces), and reverted rubber hydroplaning (locked wheels on wet surfaces). The minimum hydroplaning speed can be estimated as 9 times the square root of tire pressure in PSI.",
+    "target_text": "What are the three types of hydroplaning?",
+    "context": "Hydroplaning occurs when a layer of water builds up between the aircraft tires and the runway surface, causing loss of tire contact and reduced braking effectiveness. There are three types: dynamic hydroplaning (high speed on wet surfaces), viscous hydroplaning (thin film on smooth surfaces), and reverted rubber hydroplaning (locked wheels on wet surfaces). The minimum hydroplaning speed can be estimated as 9 times the square root of tire pressure in PSI."
+  },
+  {
+    "input_text": "generate question: The preflight inspection is a systematic visual and physical check of the aircraft before flight. It includes checking fuel quantity and quality, oil level, control surface movement, tire condition, lights, and pitot-static system. The inspection follows a standardized pattern specific to each aircraft type. Any discrepancies must be addressed before flight. The preflight inspection is the pilot's responsibility and cannot be delegated.",
+    "target_text": "What must pilots do if discrepancies are found?",
+    "context": "The preflight inspection is a systematic visual and physical check of the aircraft before flight. It includes checking fuel quantity and quality, oil level, control surface movement, tire condition, lights, and pitot-static system. The inspection follows a standardized pattern specific to each aircraft type. Any discrepancies must be addressed before flight. The preflight inspection is the pilot's responsibility and cannot be delegated."
+  }
+]
